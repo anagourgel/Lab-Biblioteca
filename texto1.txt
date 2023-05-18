@@ -1,8 +1,8 @@
-int funcaoSub(int num1, int num2){
+int funcaoMul(int num1, int num2){
 int valor1;
 int valor2;
-int sub;
-sub=valor1-valor2;
-return soma;
+int mul;
+mul=valor1*valor2;
+return mul;
 
 }
